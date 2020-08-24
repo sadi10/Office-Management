@@ -1,0 +1,35 @@
+.adminloginContainer{
+      color:red;
+      height: 50%;
+      width: 50%;
+      text-align: center;
+      border: solid 2px rgb(40, 167, 226);
+      font-weight: 200;
+      font-size: 15px;
+
+      display: flex;
+      align-items: center;
+      justify-content:center;
+
+      position: absolute;
+      left: 50%;
+      transform: translate(-50%,0);
+
+      margin-top: 50px;
+}
+
+.usernameFeild{
+    margin:5px 5px;
+    
+}
+
+.passwordFeild{
+    margin:5px 5px;
+    
+}
+
+.userloginform{
+    border-radius: 2px;
+    border-style: solid;
+
+}
